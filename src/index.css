@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding:0;
+  background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%); /* w3c */ 
+  font-family: 'Courier New', Courier, monospace, sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
